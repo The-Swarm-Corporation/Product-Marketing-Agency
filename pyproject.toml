@@ -29,7 +29,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 swarms = "*"
-rich = "^13.7.0"
+rich = "^14.1.0"
 python-dotenv = "*"
 loguru = "*"
 
