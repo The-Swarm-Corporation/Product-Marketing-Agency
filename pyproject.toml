@@ -34,7 +34,7 @@ python-dotenv = "*"
 loguru = "*"
 
 [tool.poetry.dev-dependencies]
-pytest = "^7.0.0"
+pytest = "^8.4.1"
 pytest-cov = "^4.0.0"
 black = "^23.1.0"
 ruff = "^0.1.6"
