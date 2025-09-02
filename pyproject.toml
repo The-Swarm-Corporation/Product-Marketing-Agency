@@ -35,7 +35,7 @@ loguru = "*"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0.0"
-pytest-cov = "^4.0.0"
+pytest-cov = "^6.2.1"
 black = "^23.1.0"
 ruff = "^0.1.6"
 mypy = "^1.0.0"
